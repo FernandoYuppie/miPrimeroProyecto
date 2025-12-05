@@ -1,3 +1,4 @@
 Objetivos del máster de full-stack:
 
  - Aprender y dominar las herramientas propuestas en el máster
+ - Interiorizar los conceptos y flujos de trabajo
